@@ -90,6 +90,14 @@ h2 {
 #services .card {
     margin-bottom: 1.5rem;
 }
+/*Events*/
+
+#voucher-paragraph{
+    width: fit-content;
+    background-color: var(--highlight-color);
+    color: white;
+    padding: 0 1rem;
+}
 
 /* Game library cards */
 
@@ -134,9 +142,11 @@ h2 {
     background-color: transparent;
 }
 
-/* grid visualisation CSS for testing */
 
-/* .container,
+
+/*grid visualisation CSS for testing */
+/* 
+.container,
 .row {
     border: 2px solid black;
 }
